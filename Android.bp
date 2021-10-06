@@ -45,8 +45,3 @@ license {
         "NOTICE",
     ],
 }
-
-prebuilt_font {
-    name: "CutiveMono.ttf",
-    src: "CutiveMono.ttf",
-}
